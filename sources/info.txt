@@ -1,0 +1,9 @@
+info sprite Guard... => File size: 119.19KiB, type: png,
+                        width: 521px, height: 911px
+
+info weapon reload = > File size: 654.41KiB (-7.29%), type: png,
+                        width: 600px, height: 12480px
+info weapon shot => File size: 425.35KiB (+17.66%), type: png, 
+                    width: 600px, height: 6720px, 14 frames
+        shot_colm => File size: 327.66KiB (-9.36%), type: png convert, 
+                    width: 3000px, height: 1440px
